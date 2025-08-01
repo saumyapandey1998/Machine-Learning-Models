@@ -20,7 +20,7 @@ No external machine learning libraries (like `scikit-learn`) are used—everythi
 
 - **Decision Tree**
 - **K-Nearest Neighbors (KNN)**
-- **Multinomial Naive Bayes
+- **Multinomial Naive Bayes**
 - **Neural Networks**
 - **Random Forest**
 
